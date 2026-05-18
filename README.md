@@ -1027,13 +1027,21 @@ int main(int argc, char **argv)
 
 
 ## OUTPUT:
+
 Theards =512:
+
 <img width="1332" height="171" alt="image" src="https://github.com/user-attachments/assets/baf7f326-ae1b-401b-9aa3-dd1f06acdf03" />
+
 Theards =:1023
+
 <img width="973" height="192" alt="image" src="https://github.com/user-attachments/assets/52d8a2b7-94c2-48e4-9b72-a8fe29a41fad" />
+
 Theards =1024:
+
 <img width="907" height="192" alt="image" src="https://github.com/user-attachments/assets/3630df60-2c98-4ee5-afc7-0f4c7ae047e1" />
+
 Theards =256:
+
 <img width="852" height="197" alt="image" src="https://github.com/user-attachments/assets/1ea707f7-9c9d-4f07-a64d-1767cf3371ce" />
 
 
